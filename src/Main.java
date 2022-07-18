@@ -42,7 +42,7 @@ public class Main {
         int B = (A / 10) % 10;
         System.out.println( B );
         System.out.println( A );
-
+//ghjgjjjjjjjjjjjjhgjfgjfgjh
 
 
 
